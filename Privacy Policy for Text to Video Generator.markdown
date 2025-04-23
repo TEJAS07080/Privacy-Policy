@@ -67,5 +67,5 @@ I may update this Privacy Policy to reflect changes in the Extension’s functio
 
 ## 9. Contact Me
 
-If you have questions or concerns about this Privacy Policy, please contact me at [My Gmail](tejas07080@gmail.com)
+If you have questions or concerns about this Privacy Policy, please contact me at [tejas07080@gmail.com](gmail.com)
 By using the Text to Video Generator, you agree to the terms outlined in this Privacy Policy. Thank you for trusting me with your data!
