@@ -2,9 +2,9 @@
 
 **Effective Date**: April 22, 2025
 
-Thank you for using the **Text to Video Generator** Chrome extension ("the Extension"). This Privacy Policy explains how we collect, use, store, and protect your data when you use the Extension. Your privacy is important to us, and we are committed to transparency about our data practices.
+Thank you for using the **Text to Video Generator** Chrome extension ("the Extension"). This Privacy Policy explains how I collect, use, store, and protect your data when you use the Extension. Your privacy is important to ke, and I am committed to transparency about my data practices.
 
-## 1. Data We Collect
+## 1. Data I Collect
 
 The Extension collects the following data:
 
@@ -14,13 +14,13 @@ The Extension collects the following data:
 
 The Extension does **not** collect personal information (e.g., name, email, or browsing history) unless explicitly provided by you in the input text.
 
-## 2. How We Use Your Data
+## 2. How I Use Your Data
 
-We use the collected data to:
+I use the collected data to:
 
 - Process your input text to generate videos, including audio narration, images, and captions.
 - Store video data and generation states locally on your device to enable seamless continuation across sessions.
-- Send your input text to our secure backend server (`https://backend-bsst.onrender.com`) for video generation.
+- Send your input text to our secure backend server for video generation.
 - Improve the Extension’s functionality through anonymized logs (e.g., error tracking).
 
 ## 3. Data Storage and Retention
@@ -31,22 +31,22 @@ We use the collected data to:
 
 ## 4. Third-Party Services
 
-The Extension uses the following third-party services to generate videos. Your input text may be sent to these services via our backend:
+The Extension uses the following third-party services to generate videos. Your input text may be sent to these services via my backend:
 
-- **ElevenLabs**: For audio narration. Privacy Policy
-- **Murf**: For fallback audio generation. Privacy Policy
-- **AssemblyAI**: For audio transcription and timing analysis. Privacy Policy
-- **Google Gemini**: For phrase extraction and image generation. Privacy Policy
+- **ElevenLabs**: For audio narration. 
+- **Murf**: For fallback audio generation. 
+- **AssemblyAI**: For audio transcription and timing analysis. 
+- **Google Gemini**: For phrase extraction and image generation. 
 
-These services are bound by their respective privacy policies, and we ensure they receive only the minimum data necessary for video generation.
+These services are bound by their respective privacy policies, and I ensure they receive only the minimum data necessary for video generation.
 
 ## 5. Data Sharing
 
-We do **not** share your data with any parties other than the third-party services listed above, which are used solely to provide the Extension’s functionality. No data is sold, traded, or used for advertising purposes.
+I do **not** share your data with any parties other than the third-party services listed above, which are used solely to provide the Extension’s functionality. No data is sold, traded, or used for advertising purposes.
 
 ## 6. Security Measures
 
-We take the following steps to protect your data:
+I take the following steps to protect your data:
 
 - All communication between the Extension and our backend uses secure HTTPS protocols.
 - API keys for third-party services are stored securely on the backend, not in the Extension’s client-side code.
@@ -63,10 +63,9 @@ You have control over your data:
 
 ## 8. Changes to This Privacy Policy
 
-We may update this Privacy Policy to reflect changes in the Extension’s functionality or legal requirements. The latest version will be available at \[insert URL, e.g., your hosted privacy policy page\] or within the Extension. The effective date will be updated accordingly.
+I may update this Privacy Policy to reflect changes in the Extension’s functionality or legal requirements. The latest version will be available at [Privacy-Policy](https://github.com/TEJAS07080/Privacy-Policy/edit/main/Privacy%20Policy%20for%20Text%20to%20Video%20Generator.markdown) or within the Extension. The effective date will be updated accordingly.
 
-## 9. Contact Us
+## 9. Contact Me
 
-If you have questions or concerns about this Privacy Policy, please contact us at \[insert your contact email, e.g., your.email@example.com\].
-
-By using the Text to Video Generator, you agree to the terms outlined in this Privacy Policy. Thank you for trusting us with your data!
+If you have questions or concerns about this Privacy Policy, please contact me at [My Gmail](tejas07080@gmail.com)
+By using the Text to Video Generator, you agree to the terms outlined in this Privacy Policy. Thank you for trusting me with your data!
