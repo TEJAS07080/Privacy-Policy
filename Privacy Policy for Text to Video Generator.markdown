@@ -63,7 +63,7 @@ You have control over your data:
 
 ## 8. Changes to This Privacy Policy
 
-I may update this Privacy Policy to reflect changes in the Extension’s functionality or legal requirements. The latest version will be available at [Privacy-Policy](https://github.com/TEJAS07080/Privacy-Policy/edit/main/Privacy%20Policy%20for%20Text%20to%20Video%20Generator.markdown) or within the Extension. The effective date will be updated accordingly.
+I may update this Privacy Policy to reflect changes in the Extension’s functionality or legal requirements. The latest version will be available at [Privacy-Policy](https://github.com/TEJAS07080/Privacy-Policy/blob/main/Privacy%20Policy%20for%20Text%20to%20Video%20Generator.markdown) or within the Extension. The effective date will be updated accordingly.
 
 ## 9. Contact Me
 
